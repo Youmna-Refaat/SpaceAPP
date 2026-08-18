@@ -14,6 +14,13 @@ A new Flutter project that allows users to explore and learn about space.
 
 ## Data Source
 * All data used in the app is fetched from local assets files, including JSON files and images.
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="220" />
+  <img src="assets/screenshots/explore.png" width="220" />
+  <img src="assets/screenshots/planet.png" width="220" />
+</p>
 
 ## Installation
 ### Prerequisites
